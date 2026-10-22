@@ -325,3 +325,6 @@ characters of ponytown !
 <a href="https://github.com/Itrappedfan">@Itrappedfan</a> is ponytown’s froggydude !
 
 <a href="https://github.com/llBATMAN">@llBATMAN</a> is ponytown’s batman !
+
+<a
+href="https://github.com/call-me-ZLP">@call-me-ZLP</a> is ponytown's mannequin_mark !
